@@ -1,0 +1,16 @@
+name: tempoPlugin
+version: '${project.version}'
+main: org.salfox.Main
+api-version: '1.17'
+authors: [SalFox]
+description: a
+commands:
+  windyTempo:
+    description: Ti permette di vedere il tempo trascorso nel server
+    usage: /windyTempo
+  windyLavoro:
+    description: Ti permette di selezionare il lavoro
+    usage: /windyLavoro
+  windyDimettiti:
+    description: Ti permette di dimetterti dal lavoro
+    usage: /windyDimettiti

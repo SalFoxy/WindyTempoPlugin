@@ -1,0 +1,4 @@
+org\salfox\commands\TimeCommand.class
+org\salfox\listeners\TimeListener.class
+org\salfox\Managers\PlayerTimeManager.class
+org\salfox\Main.class
